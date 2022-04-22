@@ -1,0 +1,1256 @@
+ID;Name;ORIGIN;SEX;0
+6000.0;LibriSpeech/6000-55211-0000.flac;TRAIN; F ;
+5456.0;LibriSpeech/5456-24741-0000.flac;TRAIN; M ;
+118.0;LibriSpeech/118-121721-0000.flac;TRAIN; M ;
+2514.0;LibriSpeech/2514-149482-0000.flac;TRAIN; M ;
+3235.0;LibriSpeech/3235-11599-0000.flac;TRAIN; F ;
+5867.0;LibriSpeech/5867-48852-0000.flac;TRAIN; F ;
+6529.0;LibriSpeech/6529-62554-0000.flac;TRAIN; M ;
+3807.0;LibriSpeech/3807-4923-0000.flac;TRAIN; M ;
+8098.0;LibriSpeech/8098-275181-0000.flac;TRAIN; M ;
+1841.0;LibriSpeech/1841-150351-0000.flac;TRAIN; F ;
+2002.0;LibriSpeech/2002-139469-0000.flac;TRAIN; M ;
+3168.0;LibriSpeech/3168-173564-0000.flac;TRAIN; M ;
+3879.0;LibriSpeech/3879-173592-0000.flac;TRAIN; F ;
+4406.0;LibriSpeech/4406-16882-0000.flac;TRAIN; M ;
+1334.0;LibriSpeech/1334-135589-0000.flac;TRAIN; M ;
+8063.0;LibriSpeech/8063-274112-0000.flac;TRAIN; M ;
+7800.0;LibriSpeech/7800-283478-0000.flac;TRAIN; F ;
+4137.0;LibriSpeech/4137-11701-0000.flac;TRAIN; F ;
+2989.0;LibriSpeech/2989-138028-0000.flac;TRAIN; F ;
+1088.0;LibriSpeech/1088-129236-0000.flac;TRAIN; F ;
+8226.0;LibriSpeech/8226-274369-0000.flac;TRAIN; M ;
+5808.0;LibriSpeech/5808-48608-0000.flac;TRAIN; M ;
+441.0;LibriSpeech/441-128982-0000.flac;TRAIN; F ;
+839.0;LibriSpeech/839-130898-0000.flac;TRAIN; M ;
+7511.0;LibriSpeech/7511-102419-0000.flac;TRAIN; F ;
+4481.0;LibriSpeech/4481-17498-0000.flac;TRAIN; F ;
+2952.0;LibriSpeech/2952-407-0000.flac;TRAIN; M ;
+1034.0;LibriSpeech/1034-121119-0000.flac;TRAIN; M ;
+39.0;LibriSpeech/39-121914-0000.flac;TRAIN; F ;
+1502.0;LibriSpeech/1502-122615-0000.flac;TRAIN; F ;
+587.0;LibriSpeech/587-41611-0000.flac;TRAIN; F ;
+6880.0;LibriSpeech/6880-216547-0000.flac;TRAIN; M ;
+6019.0;LibriSpeech/6019-3185-0000.flac;TRAIN; M ;
+1235.0;LibriSpeech/1235-135883-0000.flac;TRAIN; M ;
+7178.0;LibriSpeech/7178-34644-0000.flac;TRAIN; F ;
+5678.0;LibriSpeech/5678-43301-0000.flac;TRAIN; M ;
+4267.0;LibriSpeech/4267-287369-0000.flac;TRAIN; M ;
+1594.0;LibriSpeech/1594-135914-0000.flac;TRAIN; M ;
+1898.0;LibriSpeech/1898-145702-0000.flac;TRAIN; F ;
+2391.0;LibriSpeech/2391-145015-0000.flac;TRAIN; F ;
+8238.0;LibriSpeech/8238-274553-0000.flac;TRAIN; F ;
+8975.0;LibriSpeech/8975-270782-0000.flac;TRAIN; F ;
+4088.0;LibriSpeech/4088-158077-0000.flac;TRAIN; F ;
+4788.0;LibriSpeech/4788-294466-0000.flac;TRAIN; M ;
+730.0;LibriSpeech/730-358-0000.flac;TRAIN; F ;
+5390.0;LibriSpeech/5390-24512-0000.flac;TRAIN; M ;
+403.0;LibriSpeech/403-126855-0000.flac;TRAIN; F ;
+2764.0;LibriSpeech/2764-36616-0000.flac;TRAIN; F ;
+5192.0;LibriSpeech/5192-19396-0000.flac;TRAIN; M ;
+1723.0;LibriSpeech/1723-141149-0000.flac;TRAIN; M ;
+909.0;LibriSpeech/909-131041-0000.flac;TRAIN; M ;
+7113.0;LibriSpeech/7113-86041-0000.flac;TRAIN; F ;
+6925.0;LibriSpeech/6925-80680-0000.flac;TRAIN; M ;
+6064.0;LibriSpeech/6064-300880-0000.flac;TRAIN; F ;
+150.0;LibriSpeech/150-126107-0000.flac;TRAIN; F ;
+6272.0;LibriSpeech/6272-70168-0000.flac;TRAIN; F ;
+3242.0;LibriSpeech/3242-67153-0000.flac;TRAIN; M ;
+2893.0;LibriSpeech/2893-139310-0000.flac;TRAIN; M ;
+7447.0;LibriSpeech/7447-91186-0000.flac;TRAIN; M ;
+6181.0;LibriSpeech/6181-216552-0000.flac;TRAIN; M ;
+229.0;LibriSpeech/229-130880-0000.flac;TRAIN; M ;
+5022.0;LibriSpeech/5022-29405-0000.flac;TRAIN; F ;
+3857.0;LibriSpeech/3857-180923-0000.flac;TRAIN; M ;
+7078.0;LibriSpeech/7078-271888-0000.flac;TRAIN; F ;
+5561.0;LibriSpeech/5561-39621-0000.flac;TRAIN; F ;
+1992.0;LibriSpeech/1992-141719-0000.flac;TRAIN; F ;
+4195.0;LibriSpeech/4195-17507-0000.flac;TRAIN; F ;
+5688.0;LibriSpeech/5688-15787-0000.flac;TRAIN; F ;
+7059.0;LibriSpeech/7059-77897-0000.flac;TRAIN; F ;
+328.0;LibriSpeech/328-129766-0000.flac;TRAIN; F ;
+3112.0;LibriSpeech/3112-9554-0000.flac;TRAIN; F ;
+2007.0;LibriSpeech/2007-132570-0000.flac;TRAIN; F ;
+5163.0;LibriSpeech/5163-18515-0000.flac;TRAIN; F ;
+8123.0;LibriSpeech/8123-275193-0000.flac;TRAIN; F ;
+8425.0;LibriSpeech/8425-246962-0000.flac;TRAIN; M ;
+4397.0;LibriSpeech/4397-15666-0000.flac;TRAIN; M ;
+2910.0;LibriSpeech/2910-131096-0000.flac;TRAIN; F ;
+2182.0;LibriSpeech/2182-150130-0000.flac;TRAIN; F ;
+2196.0;LibriSpeech/2196-170151-0000.flac;TRAIN; F ;
+5514.0;LibriSpeech/5514-19192-0000.flac;TRAIN; F ;
+5049.0;LibriSpeech/5049-25947-0000.flac;TRAIN; M ;
+289.0;LibriSpeech/289-121652-0000.flac;TRAIN; F ;
+4214.0;LibriSpeech/4214-7146-0000.flac;TRAIN; F ;
+8609.0;LibriSpeech/8609-262281-0000.flac;TRAIN; M ;
+3723.0;LibriSpeech/3723-171115-0000.flac;TRAIN; M ;
+332.0;LibriSpeech/332-128985-0000.flac;TRAIN; M ;
+460.0;LibriSpeech/460-172357-0000.flac;TRAIN; M ;
+4859.0;LibriSpeech/4859-22176-0000.flac;TRAIN; M ;
+7067.0;LibriSpeech/7067-76047-0000.flac;TRAIN; M ;
+2911.0;LibriSpeech/2911-12359-0000.flac;TRAIN; M ;
+8770.0;LibriSpeech/8770-295462-0000.flac;TRAIN; M ;
+7190.0;LibriSpeech/7190-90542-0000.flac;TRAIN; M ;
+248.0;LibriSpeech/248-130644-0000.flac;TRAIN; F ;
+8580.0;LibriSpeech/8580-287363-0000.flac;TRAIN; M ;
+7264.0;LibriSpeech/7264-92310-0000.flac;TRAIN; M ;
+1183.0;LibriSpeech/1183-124566-0000.flac;TRAIN; F ;
+2136.0;LibriSpeech/2136-5140-0000.flac;TRAIN; M ;
+8630.0;LibriSpeech/8630-305212-0000.flac;TRAIN; M ;
+696.0;LibriSpeech/696-92939-0000.flac;TRAIN; F ;
+1363.0;LibriSpeech/1363-135842-0000.flac;TRAIN; F ;
+78.0;LibriSpeech/78-368-0000.flac;TRAIN; M ;
+4340.0;LibriSpeech/4340-15220-0000.flac;TRAIN; F ;
+669.0;LibriSpeech/669-129061-0000.flac;TRAIN; F ;
+4297.0;LibriSpeech/4297-13006-0000.flac;TRAIN; F ;
+4853.0;LibriSpeech/4853-27670-0000.flac;TRAIN; F ;
+6415.0;LibriSpeech/6415-100596-0000.flac;TRAIN; F ;
+4051.0;LibriSpeech/4051-10927-0000.flac;TRAIN; F ;
+3214.0;LibriSpeech/3214-167602-0000.flac;TRAIN; M ;
+1246.0;LibriSpeech/1246-124548-0000.flac;TRAIN; F ;
+4830.0;LibriSpeech/4830-25898-0000.flac;TRAIN; M ;
+125.0;LibriSpeech/125-121124-0000.flac;TRAIN; F ;
+233.0;LibriSpeech/233-134440-0000.flac;TRAIN; M ;
+1578.0;LibriSpeech/1578-140045-0000.flac;TRAIN; F ;
+1263.0;LibriSpeech/1263-138246-0000.flac;TRAIN; F ;
+6078.0;LibriSpeech/6078-54007-0000.flac;TRAIN; F ;
+887.0;LibriSpeech/887-123289-0000.flac;TRAIN; F ;
+8095.0;LibriSpeech/8095-274345-0000.flac;TRAIN; M ;
+445.0;LibriSpeech/445-123857-0000.flac;TRAIN; M ;
+7302.0;LibriSpeech/7302-86814-0000.flac;TRAIN; F ;
+4018.0;LibriSpeech/4018-103416-0000.flac;TRAIN; M ;
+60.0;LibriSpeech/60-121082-0000.flac;TRAIN; M ;
+911.0;LibriSpeech/911-128684-0000.flac;TRAIN; M ;
+6454.0;LibriSpeech/6454-107462-0000.flac;TRAIN; M ;
+6367.0;LibriSpeech/6367-65536-0000.flac;TRAIN; M ;
+6081.0;LibriSpeech/6081-41997-0000.flac;TRAIN; M ;
+8108.0;LibriSpeech/8108-274318-0000.flac;TRAIN; M ;
+4640.0;LibriSpeech/4640-19187-0000.flac;TRAIN; F ;
+3982.0;LibriSpeech/3982-178459-0000.flac;TRAIN; F ;
+2691.0;LibriSpeech/2691-156745-0000.flac;TRAIN; F ;
+6818.0;LibriSpeech/6818-68772-0000.flac;TRAIN; F ;
+19.0;LibriSpeech/19-198-0000.flac;TRAIN; F ;
+7517.0;LibriSpeech/7517-100429-0000.flac;TRAIN; F ;
+1355.0;LibriSpeech/1355-39947-0000.flac;TRAIN; M ;
+322.0;LibriSpeech/322-124146-0000.flac;TRAIN; F ;
+6531.0;LibriSpeech/6531-61334-0000.flac;TRAIN; F ;
+5104.0;LibriSpeech/5104-33406-0000.flac;TRAIN; M ;
+83.0;LibriSpeech/83-11691-0000.flac;TRAIN; F ;
+7278.0;LibriSpeech/7278-104730-0000.flac;TRAIN; M ;
+1455.0;LibriSpeech/1455-134435-0000.flac;TRAIN; M ;
+211.0;LibriSpeech/211-122425-0000.flac;TRAIN; F ;
+3436.0;LibriSpeech/3436-172162-0000.flac;TRAIN; M ;
+163.0;LibriSpeech/163-121908-0000.flac;TRAIN; M ;
+200.0;LibriSpeech/200-124139-0000.flac;TRAIN; F ;
+1447.0;LibriSpeech/1447-130550-0000.flac;TRAIN; F ;
+1743.0;LibriSpeech/1743-142912-0000.flac;TRAIN; M ;
+7505.0;LibriSpeech/7505-258958-0000.flac;TRAIN; M ;
+1867.0;LibriSpeech/1867-148436-0000.flac;TRAIN; M ;
+8468.0;LibriSpeech/8468-286673-0000.flac;TRAIN; F ;
+2518.0;LibriSpeech/2518-154825-0000.flac;TRAIN; M ;
+2092.0;LibriSpeech/2092-145706-0000.flac;TRAIN; F ;
+8051.0;LibriSpeech/8051-118101-0000.flac;TRAIN; F ;
+1624.0;LibriSpeech/1624-142933-0000.flac;TRAIN; M ;
+3947.0;LibriSpeech/3947-13260-0000.flac;TRAIN; F ;
+87.0;LibriSpeech/87-121553-0000.flac;TRAIN; F ;
+5463.0;LibriSpeech/5463-39173-0000.flac;TRAIN; M ;
+226.0;LibriSpeech/226-122538-0000.flac;TRAIN; F ;
+2416.0;LibriSpeech/2416-152137-0000.flac;TRAIN; F ;
+4680.0;LibriSpeech/4680-16026-0000.flac;TRAIN; F ;
+5322.0;LibriSpeech/5322-7678-0000.flac;TRAIN; M ;
+6476.0;LibriSpeech/6476-57446-0000.flac;TRAIN; F ;
+7367.0;LibriSpeech/7367-86737-0000.flac;TRAIN; M ;
+5778.0;LibriSpeech/5778-12761-0000.flac;TRAIN; F ;
+4898.0;LibriSpeech/4898-20016-0000.flac;TRAIN; M ;
+7402.0;LibriSpeech/7402-59171-0000.flac;TRAIN; M ;
+1970.0;LibriSpeech/1970-10594-0000.flac;TRAIN; F ;
+5393.0;LibriSpeech/5393-19218-0000.flac;TRAIN; F ;
+5703.0;LibriSpeech/5703-47198-0000.flac;TRAIN; M ;
+8465.0;LibriSpeech/8465-246940-0000.flac;TRAIN; F ;
+26.0;LibriSpeech/26-495-0000.flac;TRAIN; M ;
+1116.0;LibriSpeech/1116-132847-0000.flac;TRAIN; F ;
+8014.0;LibriSpeech/8014-112586-0000.flac;TRAIN; F ;
+6848.0;LibriSpeech/6848-252322-0000.flac;TRAIN; M ;
+7148.0;LibriSpeech/7148-59157-0000.flac;TRAIN; F ;
+3259.0;LibriSpeech/3259-158083-0000.flac;TRAIN; F ;
+8419.0;LibriSpeech/8419-286667-0000.flac;TRAIN; M ;
+7312.0;LibriSpeech/7312-92432-0000.flac;TRAIN; M ;
+3699.0;LibriSpeech/3699-175950-0000.flac;TRAIN; M ;
+1069.0;LibriSpeech/1069-133699-0000.flac;TRAIN; F ;
+311.0;LibriSpeech/311-124404-0000.flac;TRAIN; M ;
+2436.0;LibriSpeech/2436-2476-0000.flac;TRAIN; M ;
+412.0;LibriSpeech/412-126975-0000.flac;TRAIN; M ;
+4362.0;LibriSpeech/4362-15663-0000.flac;TRAIN; F ;
+374.0;LibriSpeech/374-180298-0000.flac;TRAIN; M ;
+831.0;LibriSpeech/831-130739-0000.flac;TRAIN; M ;
+3486.0;LibriSpeech/3486-166424-0000.flac;TRAIN; M ;
+302.0;LibriSpeech/302-123504-0000.flac;TRAIN; F ;
+3526.0;LibriSpeech/3526-175658-0000.flac;TRAIN; F ;
+1081.0;LibriSpeech/1081-125237-0000.flac;TRAIN; M ;
+7859.0;LibriSpeech/7859-102518-0000.flac;TRAIN; F ;
+6147.0;LibriSpeech/6147-34605-0000.flac;TRAIN; F ;
+4160.0;LibriSpeech/4160-11549-0000.flac;TRAIN; F ;
+1040.0;LibriSpeech/1040-133433-0000.flac;TRAIN; M ;
+2159.0;LibriSpeech/2159-179154-0000.flac;TRAIN; M ;
+6563.0;LibriSpeech/6563-285357-0000.flac;TRAIN; M ;
+307.0;LibriSpeech/307-127535-0000.flac;TRAIN; M ;
+458.0;LibriSpeech/458-126290-0000.flac;TRAIN; M ;
+8838.0;LibriSpeech/8838-298545-0000.flac;TRAIN; M ;
+5652.0;LibriSpeech/5652-19215-0000.flac;TRAIN; F ;
+3830.0;LibriSpeech/3830-12529-0000.flac;TRAIN; M ;
+3607.0;LibriSpeech/3607-135982-0000.flac;TRAIN; M ;
+40.0;LibriSpeech/40-121026-0000.flac;TEST; F ;
+7780.0;LibriSpeech/7780-274562-0000.flac;TEST; F ;
+2817.0;LibriSpeech/2817-142371-0000.flac;TEST; F ;
+298.0;LibriSpeech/298-126790-0000.flac;TEST; F ;
+254.0;LibriSpeech/254-12312-0000.flac;TEST; M ;
+4014.0;LibriSpeech/4014-186175-0000.flac;TEST; M ;
+6437.0;LibriSpeech/6437-66172-0000.flac;TEST; M ;
+446.0;LibriSpeech/446-123501-0000.flac;TEST; M ;
+5339.0;LibriSpeech/5339-14133-0000.flac;TEST; F ;
+2843.0;LibriSpeech/2843-152918-0000.flac;TEST; M ;
+250.0;LibriSpeech/250-140277-0000.flac;TEST; F ;
+7226.0;LibriSpeech/7226-86964-0000.flac;TEST; M ;
+5750.0;LibriSpeech/5750-100289-0000.flac;TEST; M ;
+8324.0;LibriSpeech/8324-286681-0000.flac;TEST; F ;
+8629.0;LibriSpeech/8629-261139-0000.flac;TEST; M ;
+5789.0;LibriSpeech/5789-57158-0000.flac;TEST; F ;
+625.0;LibriSpeech/625-132112-0000.flac;TEST; M ;
+405.0;LibriSpeech/405-130894-0000.flac;TEST; M ;
+3664.0;LibriSpeech/3664-11714-0000.flac;TEST; M ;
+2289.0;LibriSpeech/2289-152253-0000.flac;TEST; M ;
+6385.0;LibriSpeech/6385-220959-0000.flac;TEST; F ;
+3240.0;LibriSpeech/3240-131231-0000.flac;TEST; M ;
+1963.0;LibriSpeech/1963-142393-0000.flac;TEST; F ;
+481.0;LibriSpeech/481-123719-0000.flac;TEST; M ;
+1737.0;LibriSpeech/1737-142396-0000.flac;TEST; F ;
+3440.0;LibriSpeech/3440-171006-0000.flac;TEST; F ;
+2384.0;LibriSpeech/2384-152900-0000.flac;TEST; M ;
+7635.0;LibriSpeech/7635-105409-0000.flac;TEST; F ;
+89.0;LibriSpeech/89-218-0000.flac;TEST; F ;
+198.0;LibriSpeech/198-126831-0000.flac;TEST; F ;
+1926.0;LibriSpeech/1926-143879-0000.flac;TEST; F ;
+8312.0;LibriSpeech/8312-279790-0000.flac;TEST; F ;
+32.0;LibriSpeech/32-21625-0000.flac;TEST; F ;
+8747.0;LibriSpeech/8747-293952-0000.flac;TEST; M ;
+27.0;LibriSpeech/27-123349-0000.flac;TEST; M ;
+196.0;LibriSpeech/196-122150-0000.flac;TEST; M ;
+4441.0;LibriSpeech/4441-76250-0000.flac;TEST; M ;
+103.0;LibriSpeech/103-1240-0000.flac;TEST; F ;
+426.0;LibriSpeech/426-122819-0000.flac;TEST; F ;
+3983.0;LibriSpeech/3983-5331-0000.flac;TEST; F ;
+1098.0;LibriSpeech/1098-133695-0000.flac;TEST; F ;
+6209.0;LibriSpeech/6209-34599-0000.flac;TEST; M ;
+8088.0;LibriSpeech/8088-284756-0000.flac;TEST; M ;
+1553.0;LibriSpeech/1553-140047-0000.flac;TEST; F ;
+7794.0;LibriSpeech/7794-295947-0000.flac;TEST; F ;
+3374.0;LibriSpeech/3374-298025-0000.flac;TEST; M ;
+2836.0;LibriSpeech/2836-5354-0000.flac;TEST; F ;
+6836.0;LibriSpeech/6836-61803-0000.flac;TEST; M ;
+8797.0;LibriSpeech/8797-294123-0000.flac;TEST; M ;
+201.0;LibriSpeech/201-122255-0000.flac;TEST; M ;
+4813.0;LibriSpeech/4813-248638-0000.flac;TEST; M ;
+;;;;8976
+;;;;LibriSpeech/8976.flac
+;;;;TRAIN
+;;;; F 
+;;;;8977
+;;;;LibriSpeech/8977.flac
+;;;;TRAIN
+;;;; M 
+;;;;8978
+;;;;LibriSpeech/8978.flac
+;;;;TRAIN
+;;;; M 
+;;;;8979
+;;;;LibriSpeech/8979.flac
+;;;;TRAIN
+;;;; M 
+;;;;8980
+;;;;LibriSpeech/8980.flac
+;;;;TRAIN
+;;;; F 
+;;;;8981
+;;;;LibriSpeech/8981.flac
+;;;;TRAIN
+;;;; F 
+;;;;8982
+;;;;LibriSpeech/8982.flac
+;;;;TRAIN
+;;;; M 
+;;;;8983
+;;;;LibriSpeech/8983.flac
+;;;;TRAIN
+;;;; M 
+;;;;8984
+;;;;LibriSpeech/8984.flac
+;;;;TRAIN
+;;;; M 
+;;;;8985
+;;;;LibriSpeech/8985.flac
+;;;;TRAIN
+;;;; F 
+;;;;8986
+;;;;LibriSpeech/8986.flac
+;;;;TRAIN
+;;;; M 
+;;;;8987
+;;;;LibriSpeech/8987.flac
+;;;;TRAIN
+;;;; M 
+;;;;8988
+;;;;LibriSpeech/8988.flac
+;;;;TRAIN
+;;;; F 
+;;;;8989
+;;;;LibriSpeech/8989.flac
+;;;;TRAIN
+;;;; M 
+;;;;8990
+;;;;LibriSpeech/8990.flac
+;;;;TRAIN
+;;;; M 
+;;;;8991
+;;;;LibriSpeech/8991.flac
+;;;;TRAIN
+;;;; M 
+;;;;8992
+;;;;LibriSpeech/8992.flac
+;;;;TRAIN
+;;;; F 
+;;;;8993
+;;;;LibriSpeech/8993.flac
+;;;;TRAIN
+;;;; F 
+;;;;8994
+;;;;LibriSpeech/8994.flac
+;;;;TRAIN
+;;;; F 
+;;;;8995
+;;;;LibriSpeech/8995.flac
+;;;;TRAIN
+;;;; F 
+;;;;8996
+;;;;LibriSpeech/8996.flac
+;;;;TRAIN
+;;;; M 
+;;;;8997
+;;;;LibriSpeech/8997.flac
+;;;;TRAIN
+;;;; M 
+;;;;8998
+;;;;LibriSpeech/8998.flac
+;;;;TRAIN
+;;;; F 
+;;;;8999
+;;;;LibriSpeech/8999.flac
+;;;;TRAIN
+;;;; M 
+;;;;9000
+;;;;LibriSpeech/9000.flac
+;;;;TRAIN
+;;;; F 
+;;;;9001
+;;;;LibriSpeech/9001.flac
+;;;;TRAIN
+;;;; F 
+;;;;9002
+;;;;LibriSpeech/9002.flac
+;;;;TRAIN
+;;;; M 
+;;;;9003
+;;;;LibriSpeech/9003.flac
+;;;;TRAIN
+;;;; M 
+;;;;9004
+;;;;LibriSpeech/9004.flac
+;;;;TRAIN
+;;;; F 
+;;;;9005
+;;;;LibriSpeech/9005.flac
+;;;;TRAIN
+;;;; F 
+;;;;9006
+;;;;LibriSpeech/9006.flac
+;;;;TRAIN
+;;;; F 
+;;;;9007
+;;;;LibriSpeech/9007.flac
+;;;;TRAIN
+;;;; M 
+;;;;9008
+;;;;LibriSpeech/9008.flac
+;;;;TRAIN
+;;;; M 
+;;;;9009
+;;;;LibriSpeech/9009.flac
+;;;;TRAIN
+;;;; M 
+;;;;9010
+;;;;LibriSpeech/9010.flac
+;;;;TRAIN
+;;;; F 
+;;;;9011
+;;;;LibriSpeech/9011.flac
+;;;;TRAIN
+;;;; M 
+;;;;9012
+;;;;LibriSpeech/9012.flac
+;;;;TRAIN
+;;;; M 
+;;;;9013
+;;;;LibriSpeech/9013.flac
+;;;;TRAIN
+;;;; M 
+;;;;9014
+;;;;LibriSpeech/9014.flac
+;;;;TRAIN
+;;;; F 
+;;;;9015
+;;;;LibriSpeech/9015.flac
+;;;;TRAIN
+;;;; F 
+;;;;9016
+;;;;LibriSpeech/9016.flac
+;;;;TRAIN
+;;;; F 
+;;;;9017
+;;;;LibriSpeech/9017.flac
+;;;;TRAIN
+;;;; F 
+;;;;9018
+;;;;LibriSpeech/9018.flac
+;;;;TRAIN
+;;;; F 
+;;;;9019
+;;;;LibriSpeech/9019.flac
+;;;;TRAIN
+;;;; M 
+;;;;9020
+;;;;LibriSpeech/9020.flac
+;;;;TRAIN
+;;;; F 
+;;;;9021
+;;;;LibriSpeech/9021.flac
+;;;;TRAIN
+;;;; M 
+;;;;9022
+;;;;LibriSpeech/9022.flac
+;;;;TRAIN
+;;;; F 
+;;;;9023
+;;;;LibriSpeech/9023.flac
+;;;;TRAIN
+;;;; F 
+;;;;9024
+;;;;LibriSpeech/9024.flac
+;;;;TRAIN
+;;;; M 
+;;;;9025
+;;;;LibriSpeech/9025.flac
+;;;;TRAIN
+;;;; M 
+;;;;9026
+;;;;LibriSpeech/9026.flac
+;;;;TRAIN
+;;;; M 
+;;;;9027
+;;;;LibriSpeech/9027.flac
+;;;;TRAIN
+;;;; F 
+;;;;9028
+;;;;LibriSpeech/9028.flac
+;;;;TRAIN
+;;;; M 
+;;;;9029
+;;;;LibriSpeech/9029.flac
+;;;;TRAIN
+;;;; F 
+;;;;9030
+;;;;LibriSpeech/9030.flac
+;;;;TRAIN
+;;;; F 
+;;;;9031
+;;;;LibriSpeech/9031.flac
+;;;;TRAIN
+;;;; F 
+;;;;9032
+;;;;LibriSpeech/9032.flac
+;;;;TRAIN
+;;;; M 
+;;;;9033
+;;;;LibriSpeech/9033.flac
+;;;;TRAIN
+;;;; M 
+;;;;9034
+;;;;LibriSpeech/9034.flac
+;;;;TRAIN
+;;;; M 
+;;;;9035
+;;;;LibriSpeech/9035.flac
+;;;;TRAIN
+;;;; M 
+;;;;9036
+;;;;LibriSpeech/9036.flac
+;;;;TRAIN
+;;;; M 
+;;;;9037
+;;;;LibriSpeech/9037.flac
+;;;;TRAIN
+;;;; F 
+;;;;9038
+;;;;LibriSpeech/9038.flac
+;;;;TRAIN
+;;;; M 
+;;;;9039
+;;;;LibriSpeech/9039.flac
+;;;;TRAIN
+;;;; F 
+;;;;9040
+;;;;LibriSpeech/9040.flac
+;;;;TRAIN
+;;;; F 
+;;;;9041
+;;;;LibriSpeech/9041.flac
+;;;;TRAIN
+;;;; F 
+;;;;9042
+;;;;LibriSpeech/9042.flac
+;;;;TRAIN
+;;;; F 
+;;;;9043
+;;;;LibriSpeech/9043.flac
+;;;;TRAIN
+;;;; F 
+;;;;9044
+;;;;LibriSpeech/9044.flac
+;;;;TRAIN
+;;;; F 
+;;;;9045
+;;;;LibriSpeech/9045.flac
+;;;;TRAIN
+;;;; F 
+;;;;9046
+;;;;LibriSpeech/9046.flac
+;;;;TRAIN
+;;;; F 
+;;;;9047
+;;;;LibriSpeech/9047.flac
+;;;;TRAIN
+;;;; F 
+;;;;9048
+;;;;LibriSpeech/9048.flac
+;;;;TRAIN
+;;;; F 
+;;;;9049
+;;;;LibriSpeech/9049.flac
+;;;;TRAIN
+;;;; F 
+;;;;9050
+;;;;LibriSpeech/9050.flac
+;;;;TRAIN
+;;;; M 
+;;;;9051
+;;;;LibriSpeech/9051.flac
+;;;;TRAIN
+;;;; M 
+;;;;9052
+;;;;LibriSpeech/9052.flac
+;;;;TRAIN
+;;;; F 
+;;;;9053
+;;;;LibriSpeech/9053.flac
+;;;;TRAIN
+;;;; F 
+;;;;9054
+;;;;LibriSpeech/9054.flac
+;;;;TRAIN
+;;;; F 
+;;;;9055
+;;;;LibriSpeech/9055.flac
+;;;;TRAIN
+;;;; F 
+;;;;9056
+;;;;LibriSpeech/9056.flac
+;;;;TRAIN
+;;;; M 
+;;;;9057
+;;;;LibriSpeech/9057.flac
+;;;;TRAIN
+;;;; F 
+;;;;9058
+;;;;LibriSpeech/9058.flac
+;;;;TRAIN
+;;;; F 
+;;;;9059
+;;;;LibriSpeech/9059.flac
+;;;;TRAIN
+;;;; M 
+;;;;9060
+;;;;LibriSpeech/9060.flac
+;;;;TRAIN
+;;;; M 
+;;;;9061
+;;;;LibriSpeech/9061.flac
+;;;;TRAIN
+;;;; M 
+;;;;9062
+;;;;LibriSpeech/9062.flac
+;;;;TRAIN
+;;;; M 
+;;;;9063
+;;;;LibriSpeech/9063.flac
+;;;;TRAIN
+;;;; M 
+;;;;9064
+;;;;LibriSpeech/9064.flac
+;;;;TRAIN
+;;;; M 
+;;;;9065
+;;;;LibriSpeech/9065.flac
+;;;;TRAIN
+;;;; M 
+;;;;9066
+;;;;LibriSpeech/9066.flac
+;;;;TRAIN
+;;;; M 
+;;;;9067
+;;;;LibriSpeech/9067.flac
+;;;;TRAIN
+;;;; M 
+;;;;9068
+;;;;LibriSpeech/9068.flac
+;;;;TRAIN
+;;;; F 
+;;;;9069
+;;;;LibriSpeech/9069.flac
+;;;;TRAIN
+;;;; M 
+;;;;9070
+;;;;LibriSpeech/9070.flac
+;;;;TRAIN
+;;;; M 
+;;;;9071
+;;;;LibriSpeech/9071.flac
+;;;;TRAIN
+;;;; F 
+;;;;9072
+;;;;LibriSpeech/9072.flac
+;;;;TRAIN
+;;;; M 
+;;;;9073
+;;;;LibriSpeech/9073.flac
+;;;;TRAIN
+;;;; M 
+;;;;9074
+;;;;LibriSpeech/9074.flac
+;;;;TRAIN
+;;;; F 
+;;;;9075
+;;;;LibriSpeech/9075.flac
+;;;;TRAIN
+;;;; F 
+;;;;9076
+;;;;LibriSpeech/9076.flac
+;;;;TRAIN
+;;;; M 
+;;;;9077
+;;;;LibriSpeech/9077.flac
+;;;;TRAIN
+;;;; F 
+;;;;9078
+;;;;LibriSpeech/9078.flac
+;;;;TRAIN
+;;;; F 
+;;;;9079
+;;;;LibriSpeech/9079.flac
+;;;;TRAIN
+;;;; F 
+;;;;9080
+;;;;LibriSpeech/9080.flac
+;;;;TRAIN
+;;;; F 
+;;;;9081
+;;;;LibriSpeech/9081.flac
+;;;;TRAIN
+;;;; F 
+;;;;9082
+;;;;LibriSpeech/9082.flac
+;;;;TRAIN
+;;;; F 
+;;;;9083
+;;;;LibriSpeech/9083.flac
+;;;;TRAIN
+;;;; M 
+;;;;9084
+;;;;LibriSpeech/9084.flac
+;;;;TRAIN
+;;;; F 
+;;;;9085
+;;;;LibriSpeech/9085.flac
+;;;;TRAIN
+;;;; M 
+;;;;9086
+;;;;LibriSpeech/9086.flac
+;;;;TRAIN
+;;;; F 
+;;;;9087
+;;;;LibriSpeech/9087.flac
+;;;;TRAIN
+;;;; M 
+;;;;9088
+;;;;LibriSpeech/9088.flac
+;;;;TRAIN
+;;;; F 
+;;;;9089
+;;;;LibriSpeech/9089.flac
+;;;;TRAIN
+;;;; F 
+;;;;9090
+;;;;LibriSpeech/9090.flac
+;;;;TRAIN
+;;;; F 
+;;;;9091
+;;;;LibriSpeech/9091.flac
+;;;;TRAIN
+;;;; F 
+;;;;9092
+;;;;LibriSpeech/9092.flac
+;;;;TRAIN
+;;;; M 
+;;;;9093
+;;;;LibriSpeech/9093.flac
+;;;;TRAIN
+;;;; M 
+;;;;9094
+;;;;LibriSpeech/9094.flac
+;;;;TRAIN
+;;;; F 
+;;;;9095
+;;;;LibriSpeech/9095.flac
+;;;;TRAIN
+;;;; M 
+;;;;9096
+;;;;LibriSpeech/9096.flac
+;;;;TRAIN
+;;;; M 
+;;;;9097
+;;;;LibriSpeech/9097.flac
+;;;;TRAIN
+;;;; M 
+;;;;9098
+;;;;LibriSpeech/9098.flac
+;;;;TRAIN
+;;;; M 
+;;;;9099
+;;;;LibriSpeech/9099.flac
+;;;;TRAIN
+;;;; M 
+;;;;9100
+;;;;LibriSpeech/9100.flac
+;;;;TRAIN
+;;;; M 
+;;;;9101
+;;;;LibriSpeech/9101.flac
+;;;;TRAIN
+;;;; M 
+;;;;9102
+;;;;LibriSpeech/9102.flac
+;;;;TRAIN
+;;;; F 
+;;;;9103
+;;;;LibriSpeech/9103.flac
+;;;;TRAIN
+;;;; F 
+;;;;9104
+;;;;LibriSpeech/9104.flac
+;;;;TRAIN
+;;;; F 
+;;;;9105
+;;;;LibriSpeech/9105.flac
+;;;;TRAIN
+;;;; F 
+;;;;9106
+;;;;LibriSpeech/9106.flac
+;;;;TRAIN
+;;;; F 
+;;;;9107
+;;;;LibriSpeech/9107.flac
+;;;;TRAIN
+;;;; F 
+;;;;9108
+;;;;LibriSpeech/9108.flac
+;;;;TRAIN
+;;;; M 
+;;;;9109
+;;;;LibriSpeech/9109.flac
+;;;;TRAIN
+;;;; F 
+;;;;9110
+;;;;LibriSpeech/9110.flac
+;;;;TRAIN
+;;;; F 
+;;;;9111
+;;;;LibriSpeech/9111.flac
+;;;;TRAIN
+;;;; M 
+;;;;9112
+;;;;LibriSpeech/9112.flac
+;;;;TRAIN
+;;;; F 
+;;;;9113
+;;;;LibriSpeech/9113.flac
+;;;;TRAIN
+;;;; M 
+;;;;9114
+;;;;LibriSpeech/9114.flac
+;;;;TRAIN
+;;;; M 
+;;;;9115
+;;;;LibriSpeech/9115.flac
+;;;;TRAIN
+;;;; F 
+;;;;9116
+;;;;LibriSpeech/9116.flac
+;;;;TRAIN
+;;;; M 
+;;;;9117
+;;;;LibriSpeech/9117.flac
+;;;;TRAIN
+;;;; M 
+;;;;9118
+;;;;LibriSpeech/9118.flac
+;;;;TRAIN
+;;;; F 
+;;;;9119
+;;;;LibriSpeech/9119.flac
+;;;;TRAIN
+;;;; F 
+;;;;9120
+;;;;LibriSpeech/9120.flac
+;;;;TRAIN
+;;;; M 
+;;;;9121
+;;;;LibriSpeech/9121.flac
+;;;;TRAIN
+;;;; M 
+;;;;9122
+;;;;LibriSpeech/9122.flac
+;;;;TRAIN
+;;;; M 
+;;;;9123
+;;;;LibriSpeech/9123.flac
+;;;;TRAIN
+;;;; F 
+;;;;9124
+;;;;LibriSpeech/9124.flac
+;;;;TRAIN
+;;;; M 
+;;;;9125
+;;;;LibriSpeech/9125.flac
+;;;;TRAIN
+;;;; F 
+;;;;9126
+;;;;LibriSpeech/9126.flac
+;;;;TRAIN
+;;;; F 
+;;;;9127
+;;;;LibriSpeech/9127.flac
+;;;;TRAIN
+;;;; M 
+;;;;9128
+;;;;LibriSpeech/9128.flac
+;;;;TRAIN
+;;;; F 
+;;;;9129
+;;;;LibriSpeech/9129.flac
+;;;;TRAIN
+;;;; F 
+;;;;9130
+;;;;LibriSpeech/9130.flac
+;;;;TRAIN
+;;;; M 
+;;;;9131
+;;;;LibriSpeech/9131.flac
+;;;;TRAIN
+;;;; F 
+;;;;9132
+;;;;LibriSpeech/9132.flac
+;;;;TRAIN
+;;;; F 
+;;;;9133
+;;;;LibriSpeech/9133.flac
+;;;;TRAIN
+;;;; F 
+;;;;9134
+;;;;LibriSpeech/9134.flac
+;;;;TRAIN
+;;;; M 
+;;;;9135
+;;;;LibriSpeech/9135.flac
+;;;;TRAIN
+;;;; F 
+;;;;9136
+;;;;LibriSpeech/9136.flac
+;;;;TRAIN
+;;;; M 
+;;;;9137
+;;;;LibriSpeech/9137.flac
+;;;;TRAIN
+;;;; F 
+;;;;9138
+;;;;LibriSpeech/9138.flac
+;;;;TRAIN
+;;;; M 
+;;;;9139
+;;;;LibriSpeech/9139.flac
+;;;;TRAIN
+;;;; M 
+;;;;9140
+;;;;LibriSpeech/9140.flac
+;;;;TRAIN
+;;;; F 
+;;;;9141
+;;;;LibriSpeech/9141.flac
+;;;;TRAIN
+;;;; F 
+;;;;9142
+;;;;LibriSpeech/9142.flac
+;;;;TRAIN
+;;;; M 
+;;;;9143
+;;;;LibriSpeech/9143.flac
+;;;;TRAIN
+;;;; F 
+;;;;9144
+;;;;LibriSpeech/9144.flac
+;;;;TRAIN
+;;;; M 
+;;;;9145
+;;;;LibriSpeech/9145.flac
+;;;;TRAIN
+;;;; F 
+;;;;9146
+;;;;LibriSpeech/9146.flac
+;;;;TRAIN
+;;;; F 
+;;;;9147
+;;;;LibriSpeech/9147.flac
+;;;;TRAIN
+;;;; M 
+;;;;9148
+;;;;LibriSpeech/9148.flac
+;;;;TRAIN
+;;;; F 
+;;;;9149
+;;;;LibriSpeech/9149.flac
+;;;;TRAIN
+;;;; F 
+;;;;9150
+;;;;LibriSpeech/9150.flac
+;;;;TRAIN
+;;;; M 
+;;;;9151
+;;;;LibriSpeech/9151.flac
+;;;;TRAIN
+;;;; M 
+;;;;9152
+;;;;LibriSpeech/9152.flac
+;;;;TRAIN
+;;;; M 
+;;;;9153
+;;;;LibriSpeech/9153.flac
+;;;;TRAIN
+;;;; F 
+;;;;9154
+;;;;LibriSpeech/9154.flac
+;;;;TRAIN
+;;;; M 
+;;;;9155
+;;;;LibriSpeech/9155.flac
+;;;;TRAIN
+;;;; M 
+;;;;9156
+;;;;LibriSpeech/9156.flac
+;;;;TRAIN
+;;;; M 
+;;;;9157
+;;;;LibriSpeech/9157.flac
+;;;;TRAIN
+;;;; F 
+;;;;9158
+;;;;LibriSpeech/9158.flac
+;;;;TRAIN
+;;;; M 
+;;;;9159
+;;;;LibriSpeech/9159.flac
+;;;;TRAIN
+;;;; M 
+;;;;9160
+;;;;LibriSpeech/9160.flac
+;;;;TRAIN
+;;;; M 
+;;;;9161
+;;;;LibriSpeech/9161.flac
+;;;;TRAIN
+;;;; F 
+;;;;9162
+;;;;LibriSpeech/9162.flac
+;;;;TRAIN
+;;;; F 
+;;;;9163
+;;;;LibriSpeech/9163.flac
+;;;;TRAIN
+;;;; M 
+;;;;9164
+;;;;LibriSpeech/9164.flac
+;;;;TRAIN
+;;;; F 
+;;;;9165
+;;;;LibriSpeech/9165.flac
+;;;;TRAIN
+;;;; F 
+;;;;9166
+;;;;LibriSpeech/9166.flac
+;;;;TRAIN
+;;;; F 
+;;;;9167
+;;;;LibriSpeech/9167.flac
+;;;;TRAIN
+;;;; M 
+;;;;9168
+;;;;LibriSpeech/9168.flac
+;;;;TRAIN
+;;;; M 
+;;;;9169
+;;;;LibriSpeech/9169.flac
+;;;;TRAIN
+;;;; M 
+;;;;9170
+;;;;LibriSpeech/9170.flac
+;;;;TRAIN
+;;;; M 
+;;;;9171
+;;;;LibriSpeech/9171.flac
+;;;;TRAIN
+;;;; M 
+;;;;9172
+;;;;LibriSpeech/9172.flac
+;;;;TRAIN
+;;;; M 
+;;;;9173
+;;;;LibriSpeech/9173.flac
+;;;;TRAIN
+;;;; F 
+;;;;9174
+;;;;LibriSpeech/9174.flac
+;;;;TRAIN
+;;;; M 
+;;;;9175
+;;;;LibriSpeech/9175.flac
+;;;;TRAIN
+;;;; M 
+;;;;9176
+;;;;LibriSpeech/9176.flac
+;;;;TRAIN
+;;;; F 
+;;;;9177
+;;;;LibriSpeech/9177.flac
+;;;;TRAIN
+;;;; F 
+;;;;9178
+;;;;LibriSpeech/9178.flac
+;;;;TRAIN
+;;;; F 
+;;;;9179
+;;;;LibriSpeech/9179.flac
+;;;;TRAIN
+;;;; F 
+;;;;9180
+;;;;LibriSpeech/9180.flac
+;;;;TRAIN
+;;;; M 
+;;;;9181
+;;;;LibriSpeech/9181.flac
+;;;;TRAIN
+;;;; M 
+;;;;9182
+;;;;LibriSpeech/9182.flac
+;;;;TRAIN
+;;;; M 
+;;;;9183
+;;;;LibriSpeech/9183.flac
+;;;;TRAIN
+;;;; M 
+;;;;9184
+;;;;LibriSpeech/9184.flac
+;;;;TRAIN
+;;;; F 
+;;;;9185
+;;;;LibriSpeech/9185.flac
+;;;;TRAIN
+;;;; M 
+;;;;9186
+;;;;LibriSpeech/9186.flac
+;;;;TRAIN
+;;;; F 
+;;;;9187
+;;;;LibriSpeech/9187.flac
+;;;;TRAIN
+;;;; M 
+;;;;9188
+;;;;LibriSpeech/9188.flac
+;;;;TRAIN
+;;;; M 
+;;;;9189
+;;;;LibriSpeech/9189.flac
+;;;;TRAIN
+;;;; F 
+;;;;9190
+;;;;LibriSpeech/9190.flac
+;;;;TRAIN
+;;;; M 
+;;;;9191
+;;;;LibriSpeech/9191.flac
+;;;;TRAIN
+;;;; F 
+;;;;9192
+;;;;LibriSpeech/9192.flac
+;;;;TRAIN
+;;;; M 
+;;;;9193
+;;;;LibriSpeech/9193.flac
+;;;;TRAIN
+;;;; M 
+;;;;9194
+;;;;LibriSpeech/9194.flac
+;;;;TRAIN
+;;;; M 
+;;;;9195
+;;;;LibriSpeech/9195.flac
+;;;;TRAIN
+;;;; M 
+;;;;9196
+;;;;LibriSpeech/9196.flac
+;;;;TRAIN
+;;;; F 
+;;;;9197
+;;;;LibriSpeech/9197.flac
+;;;;TRAIN
+;;;; M 
+;;;;9198
+;;;;LibriSpeech/9198.flac
+;;;;TRAIN
+;;;; F 
+;;;;9199
+;;;;LibriSpeech/9199.flac
+;;;;TRAIN
+;;;; M 
+;;;;9200
+;;;;LibriSpeech/9200.flac
+;;;;TRAIN
+;;;; F 
+;;;;9201
+;;;;LibriSpeech/9201.flac
+;;;;TRAIN
+;;;; F 
+;;;;9202
+;;;;LibriSpeech/9202.flac
+;;;;TRAIN
+;;;; M 
+;;;;9203
+;;;;LibriSpeech/9203.flac
+;;;;TRAIN
+;;;; F 
+;;;;9204
+;;;;LibriSpeech/9204.flac
+;;;;TRAIN
+;;;; F 
+;;;;9205
+;;;;LibriSpeech/9205.flac
+;;;;TRAIN
+;;;; F 
+;;;;9206
+;;;;LibriSpeech/9206.flac
+;;;;TRAIN
+;;;; F 
+;;;;9207
+;;;;LibriSpeech/9207.flac
+;;;;TRAIN
+;;;; F 
+;;;;9208
+;;;;LibriSpeech/9208.flac
+;;;;TRAIN
+;;;; F 
+;;;;9209
+;;;;LibriSpeech/9209.flac
+;;;;TRAIN
+;;;; M 
+;;;;9210
+;;;;LibriSpeech/9210.flac
+;;;;TRAIN
+;;;; M 
+;;;;9211
+;;;;LibriSpeech/9211.flac
+;;;;TRAIN
+;;;; M 
+;;;;9212
+;;;;LibriSpeech/9212.flac
+;;;;TRAIN
+;;;; M 
+;;;;9213
+;;;;LibriSpeech/9213.flac
+;;;;TRAIN
+;;;; F 
+;;;;9214
+;;;;LibriSpeech/9214.flac
+;;;;TRAIN
+;;;; F 
+;;;;9215
+;;;;LibriSpeech/9215.flac
+;;;;TRAIN
+;;;; F 
+;;;;9216
+;;;;LibriSpeech/9216.flac
+;;;;TRAIN
+;;;; F 
+;;;;9217
+;;;;LibriSpeech/9217.flac
+;;;;TRAIN
+;;;; M 
+;;;;9218
+;;;;LibriSpeech/9218.flac
+;;;;TRAIN
+;;;; M 
+;;;;9219
+;;;;LibriSpeech/9219.flac
+;;;;TRAIN
+;;;; F 
+;;;;9220
+;;;;LibriSpeech/9220.flac
+;;;;TRAIN
+;;;; F 
+;;;;9221
+;;;;LibriSpeech/9221.flac
+;;;;TRAIN
+;;;; M 
+;;;;9222
+;;;;LibriSpeech/9222.flac
+;;;;TRAIN
+;;;; F 
+;;;;9223
+;;;;LibriSpeech/9223.flac
+;;;;TRAIN
+;;;; M 
+;;;;9224
+;;;;LibriSpeech/9224.flac
+;;;;TRAIN
+;;;; M 
+;;;;9225
+;;;;LibriSpeech/9225.flac
+;;;;TRAIN
+;;;; M 
+;;;;9226
+;;;;LibriSpeech/9226.flac
+;;;;TRAIN
+;;;; M 
