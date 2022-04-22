@@ -2,3 +2,5 @@
 /Separation_speakers/VoxConverse/
 /Reconnaissance Femme_Homme/LibriSpeech
 
+.ipynb_checkpoints
+*.ipynb_checkpoints
