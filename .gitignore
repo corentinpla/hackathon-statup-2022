@@ -2,6 +2,6 @@
 /Separation_speakers/VoxConverse/
 /Reconnaissance Femme_Homme/LibriSpeech
 /Reconnaissance Femme_Homme/MovieSoundClips.net dataset/
-
+/moviesoundclips.net_test/
 .ipynb_checkpoints
 *.ipynb_checkpoints
