@@ -1,0 +1,9 @@
+inaSpeechSegmenter==0.7.3
+
+pathlib==1.0.1
+
+pydub==0.25.1
+
+Resemblyzer==0.1.1.dev0
+
+spectralcluster==0.2.4
