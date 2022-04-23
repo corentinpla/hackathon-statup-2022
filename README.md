@@ -1,5 +1,5 @@
-# Projet Hackathon Statup Equipe 2 PPTACL
+# Equipe 2 PPTACL
 
-Sujet 2
+Sujet choisi : 2
 
 
