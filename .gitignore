@@ -2,4 +2,4 @@
 /moviesoundclips.net_test/
 *.pdf
 *.ipynb_checkpoints
-*.wav
+/*.wav
