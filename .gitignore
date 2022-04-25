@@ -3,6 +3,6 @@
 /Reconnaissance Femme_Homme/LibriSpeech
 /Reconnaissance Femme_Homme/MovieSoundClips.net dataset/
 /moviesoundclips.net_test/
-.ipynb_checkpoints
+*.pdf
 *.ipynb_checkpoints
 *.wav
