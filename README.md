@@ -11,4 +11,4 @@ Base de données utlisée : LibriSpeech
 
 Base de données utilisée : 
 
-# Pour un fonctionnement optimal, la base de données LibriSpeech devra être ajoutée dans le dossier "Reconnaissance Femme_Homme" dans un dossier nommé "LibriSpeech". La base de données de vérification du programme moviesoundclips.net, doit être ajouté à la racine du repository, dans un dossier nommé "moviesoundclips.net_test".
+### Pour un fonctionnement optimal, la base de données LibriSpeech devra être ajoutée dans le dossier "Reconnaissance Femme_Homme" dans un dossier nommé "LibriSpeech". La base de données de vérification du programme moviesoundclips.net, doit être ajouté à la racine du repository, dans un dossier nommé "moviesoundclips.net_test".
