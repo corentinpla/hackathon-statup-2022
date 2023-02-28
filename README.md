@@ -15,9 +15,7 @@ From a voice recording containing several voices and possibly music, we count th
 The work has been split in two parts. It can be executed by using ```rendu_final.ipynb```
 
 Structure :
-- ```Reconnaissance Femme_Homme```  allows the recognition of the speaker's gender from a voice recording with only one speaker and no music.
-
-Data used : LibriSpeech
+- ```Reconnaissance Femme_Homme```  allows the recognition of the speaker's gender from a voice recording with only one speaker and no music. Data used : LibriSpeech
 
 - ```Separation_speacker```  in a soundtrack, allows to delimit the speeches and generates as many audio files as there are speakers
 
